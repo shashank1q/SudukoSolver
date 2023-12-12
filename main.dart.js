@@ -59526,7 +59526,7 @@ A.qU.prototype={
 aq(){return new A.Gb(B.j)}}
 A.Gb.prototype={
 W(a){var s=null
-return new A.qF(new A.tb(A.Vs(B.ex,A.a([A.hp(s,s,s,s,B.vq,A.cN(a,s,t.w).w.a.a*0.7,s,s,s),A.a8G(A.p3(B.xG,s,s),s)],t.F),B.hk),s),"Suduko Solver",s)}}
+return new A.qF(new A.tb(A.Vs(B.ex,A.a([A.hp(s,s,s,s,B.vq,A.cN(a,s,t.w).w.a.a*0.7,s,s,s),A.a8G(A.p3(B.xG,s,s),s)],t.F),B.hk),s),"Sudoku Solver",s)}}
 A.qV.prototype={
 aq(){return new A.Gc(B.j)}}
 A.Gc.prototype={
@@ -62006,14 +62006,14 @@ B.db=new A.kb(2,"center")
 B.cZ=new A.Do(1,"down")
 B.yj=new A.b5(20,50,20,50)
 B.Ip=new A.n(!0,B.i,null,null,null,null,50,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.JI=new A.jk("SUDUKO SOLVER",null,B.Ip,null,null)
-B.Dl=new A.eb(B.yj,B.JI,null)
-B.ys=new A.pT(B.Dl,null)
+B.JI=new A.jk("SUDOKU SOLVER",null,B.Ip,null,null)
+B.Dk=new A.eb(B.yj,B.JI,null)
+B.ys=new A.pT(B.Dk,null)
 B.jc=new A.b5(8,8,8,8)
 B.CO=new A.qV(null)
-B.Dk=new A.eb(B.jc,B.CO,null)
+B.Dl=new A.eb(B.jc,B.CO,null)
 B.FP=new A.jg(null,30,null,null)
-B.zM=A.a(s([B.ys,B.Dk,B.FP]),t.F)
+B.zM=A.a(s([B.ys,B.Dl,B.FP]),t.F)
 B.xG=new A.pc(B.aa,B.cw,B.ot,B.db,null,B.cZ,null,B.zM,null)
 B.j0=new A.kb(0,"start")
 B.xH=new A.kb(1,"end")
